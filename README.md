@@ -1,0 +1,1 @@
+The entire planet is an anamoly and the sea seems hot. And it is, according to this dataset. Big news, I know. I'm still very much just learning these tools. I like that you can do `ax.coastlines()`. I don't like that the sea is too hot.
